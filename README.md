@@ -35,7 +35,7 @@ npm install
 <p>3. Ejecutar la Aplicación</p>
 
 ```
-npm start
+npm run dev
 ```
 
   
